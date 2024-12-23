@@ -1,17 +1,16 @@
 Attributes_RU = {
-    Attributes_Type_None = "РќРµС‚",
-    Attributes_Type_Quality = "РљР°С‡РµСЃС‚РІРѕ",
-    Attributes_Type_Durability = "РџСЂРѕС‡РЅРѕСЃС‚СЊ",
-    Attributes_Type_WoodWetness = "Р’Р»Р°Р¶РЅРѕСЃС‚СЊ РґРµСЂРµРІР°",
-    Attributes_Type_Uses = "РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ",
-    Attributes_Type_DurabilityOnUse = "РџСЂРѕС‡РЅРѕСЃС‚СЊ РїСЂРё РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРё",
-    Attributes_Type_CraftedBy = "РЎРѕР·РґР°РЅРѕ",
-    Attributes_Type_MetalType = "РўРёРї РјРµС‚Р°Р»Р»Р°",
-    Attributes_Type_WoodType = "РўРёРї РґРµСЂРµРІР°",
-    Attributes_Type_ContainsWood = "РЎРѕРґРµСЂР¶РёС‚ РґРµСЂРµРІРѕ",
-    Attributes_Type_ContainsMetal = "РЎРѕРґРµСЂР¶РёС‚ РјРµС‚Р°Р»Р»",
+    Attributes_Type_None = "Нет",
+    Attributes_Type_Quality = "Качество",
+    Attributes_Type_Durability = "Прочность",
+    Attributes_Type_WoodWetness = "Влажность дерева",
+    Attributes_Type_Uses = "Использование",
+    Attributes_Type_DurabilityOnUse = "Прочность при использовании",
+    Attributes_Type_CraftedBy = "Создано",
+    Attributes_Type_MetalType = "Тип металла",
+    Attributes_Type_WoodType = "Тип дерева",
+    Attributes_Type_ContainsWood = "Содержит дерево",
+    Attributes_Type_ContainsMetal = "Содержит металл",
 
-    -- Р—Р°РјРµРЅР° РґР»СЏ РїРѕРґСЃРєР°Р·РѕРє
-    Attributes_TooltipOverride_Durability = "РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ РїСЂРѕС‡РЅРѕСЃС‚Рё",
+    -- Замена для подсказок
+    Attributes_TooltipOverride_Durability = "Использование прочности",
 }
-
