@@ -1,0 +1,9 @@
+id=SHTR42
+name=Zomboid fast translate [B42]
+pzversion=42
+poster=poster.png
+icon=icon.png
+description=simple language translation
+modversion=1.0.0
+versionMin=42.0.0
+author=ZooM
