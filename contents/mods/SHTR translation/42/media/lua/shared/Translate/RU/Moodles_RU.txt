@@ -1,0 +1,19 @@
+Moodles_RU = {
+    Moodles_Uncomfortable_desc_lvl4 = "Your clothes, the environment, or something else is making you extremely uncomfortable and unhappy."
+    Moodles_NoxiousSmell_desc_lvl4 = "You can't breathe. Get away from here!",
+    Moodles_NoxiousSmell_desc_lvl3 = "A vile stink makes you feel ill.",
+    Moodles_NoxiousSmell_desc_lvl1 = "Pee-ew. Something smells.",
+    Moodles_NoxiousSmell_lvl4 = "Deadly Fumes",
+    Moodles_Uncomfortable_desc_lvl3 = "Your clothes, the environment, or something else is making you very uncomfortable and unhappy.",
+    Moodles_NoxiousSmell_lvl2 = "Awful Odor",
+    Moodles_NoxiousSmell_lvl1 = "Bad Smell",
+    Moodles_NoxiousSmell_lvl3 = "Overwhelming Stench",
+    Moodles_Uncomfortable_desc_lvl2 = "Your clothes, the environment, or something else is making you uncomfortable and unhappy.",
+    Moodles_Uncomfortable_desc_lvl1 = "You feel a little uncomfortable.",
+    Moodles_Uncomfortable_lvl4 = "Extremely Uncomfortable",
+    Moodles_Uncomfortable_lvl3 = "Very Uncomfortable",
+    Moodles_Uncomfortable_lvl2 = "Uncomfortable",
+    Moodles_NoxiousSmell_desc_lvl2 = "Eurgh. Something smells awful.",
+    Moodles_Uncomfortable_lvl1 = "A Little Uncomfortable",
+
+}
