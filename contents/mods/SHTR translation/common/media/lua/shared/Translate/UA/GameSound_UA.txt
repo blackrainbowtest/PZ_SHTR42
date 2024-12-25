@@ -1,0 +1,3 @@
+GameSound_UA = {
+    GameSound_StormyRifleCock = "Звести рушницю",
+}
