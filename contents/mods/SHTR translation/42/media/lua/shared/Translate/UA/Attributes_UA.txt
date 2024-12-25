@@ -1,4 +1,4 @@
-Attributes_RU = {
+Attributes_UA = {
     Attributes_Type_None = "Ні",
     Attributes_Type_Quality = "Якість",
     Attributes_Type_Durability = "Міцність",
