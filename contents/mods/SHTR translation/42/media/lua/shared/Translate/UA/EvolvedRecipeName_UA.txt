@@ -1,0 +1,12 @@
+EvolvedRecipeName_UA = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Консерв. Болоньєзе",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Консерв. морква",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Консерв. м'ясо з чилі",
+	EvolvedRecipeName_Base.CannedCornOpen = "Консерв. кукурудза",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Консерв. яловичина",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Консерв. горох",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Консерв. картопля",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Консерв. сардини",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Консерв. томат",
+	EvolvedRecipeName_Base.Teabag2 = "Чай",
+}
