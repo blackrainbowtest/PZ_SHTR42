@@ -1,4 +1,4 @@
-UI_RU = {
+UI_UA = {
     -- UI_ClothingType_Legs1 = "Legs 1",
     -- UI_optionscreen_binding_ReleaseRope = "Відпустити мотузку",
     -- UI_prof_Blacksmith = "Коваль",

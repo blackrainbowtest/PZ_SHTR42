@@ -1,4 +1,4 @@
-SurvivalGuide_EN = {
+SurvivalGuide_RU = {
     SurvivalGuide_WindowTitle = "ПОКАЗАТЕЛЬ ПОЖИВАНИЯ ZOMBOID"
     SurvivalGuide_entrie1title = "#1 - ОСНОВЫ"
 	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:large> #1 - КОНТРОЛИРУЙ СЕБЯ <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> Ты не выживешь долго, если не научишься делать глубокие вдохи и не освоишь основы."
