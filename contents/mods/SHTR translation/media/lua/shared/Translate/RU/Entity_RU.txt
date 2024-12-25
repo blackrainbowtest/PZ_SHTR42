@@ -1,0 +1,24 @@
+Entity_RU = {
+    EC_Entity_DisplayName_Default = "Стандартное имя сущности",
+    EC_Entity_BuildDescription_Default = "Стандартное описание постройки сущности",
+
+    -- Energy
+    EC_Energy = "Энергия",
+    EC_Energies = "Энергии",
+    EC_Energy_Not_Set = "Энергия не задана",
+    -- Energy types
+    EC_Energy_Electric = "Электрическая",
+    EC_Energy_Mechanical = "Механическая",
+    EC_Energy_Thermal = "Термальная",
+    EC_Energy_Steam = "Пар",
+
+    -- Common
+    EC_Locked = "Заблокировано",
+    EC_Stored = "Хранится",
+    EC_Weight = "Грузоподъемность",
+    EC_Progress = "Прогресс",
+
+    -- Component
+    EC_Workstation = "Рабочая станция",
+    EC_Recipes = "Рецепты",
+}

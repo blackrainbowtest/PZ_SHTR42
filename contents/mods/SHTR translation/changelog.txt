@@ -1,6 +1,0 @@
-v1.0.0
-2024-12-23
-
-First initialization, translate new items
-
--------------------
