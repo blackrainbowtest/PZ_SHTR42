@@ -1,4 +1,4 @@
-Recipe_RU = {
+Recipe_UK = {
 AssembleLongerImplement = "Зібрати дуже довгий інструмент",
     Recipe_MakeJarofBellPeppers = "Зробити банку болгарського перцю",
     Recipe_MakeJarofTomatoes = "Зробити банку помідорів",
