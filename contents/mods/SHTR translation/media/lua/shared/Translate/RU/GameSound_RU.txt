@@ -1,3 +1,0 @@
-GameSound_RU = {
-    GameSound_StormyRifleCock = "Взвести ружье",
-}
