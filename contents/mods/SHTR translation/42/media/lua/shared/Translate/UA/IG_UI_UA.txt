@@ -1,4 +1,4 @@
-IGUI_RU = {
+IGUI_UA = {
     IGUI_BookTitle_HistorysMostBafflingMysteries = ""Самые головоломные мистерии истории", автор Эльвия-Дороти Мурилло",
     IGUI_Photo_aPaternityTest = "Тест на отцовство",
     IGUI_perks_Fishing_Description4 = "",
