@@ -45,3 +45,9 @@ luac.out
 workshop.txt
 carbide-ward-421016-753b82d091c1.json
 **/node_modules/
+miss_keys_from.txt
+miss_keys_result.txt
+miss_keys_in.txt
+miss_keys_searcher.lua
+miss_keys_translate.js
+miss_keys.txt
