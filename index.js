@@ -13,10 +13,14 @@ const lines = fs.readFileSync(inputFilePath).toString().split("\n");
 
 let translatedText = "";
 let index = 0;
+let isTranslating = false;
 
 const intervalID = setInterval(addTranslation, pause);
 
 async function addTranslation() {
+  if (isTranslating) return;
+  isTranslating = true;
+
   if (index >= lines.length) {
     console.log("stop process");
     clearInterval(intervalID);
@@ -26,24 +30,25 @@ async function addTranslation() {
   }
 
   const line = lines[index];
-  const [key, value] = line.split(" = ");
-  if (!value) {
+  if (line.trim().startsWith("--")) {
     translatedText += line + "\n";
     index++;
+    isTranslating = false;
     return;
   }
 
   console.log("try line..", index);
-  const url = googleTranslateURL("ru", "en", encodeURI(value.trim()));
+  const url = googleTranslateURL("uk", "ru", encodeURI(line.trim()));
   let enResp;
   try {
     enResp = await axios(url);
   } catch (e) {
-    console.log("skipped line", value);
+    console.log("skipped line", line);
     console.error(e);
   }
 
-  translatedText += `${key} = ${enResp ? enResp.data[0][0][0] : value.trim()}\n`;
+  translatedText += `${enResp ? enResp.data[0][0][0] : line.trim()}\n`;
 
   index++;
+  isTranslating = false;
 }
