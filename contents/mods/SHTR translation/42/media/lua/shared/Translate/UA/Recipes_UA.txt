@@ -1,5 +1,5 @@
-Recipe_UK = {
-AssembleLongerImplement = "Зібрати дуже довгий інструмент",
+Recipe_UA = {
+    AssembleLongerImplement = "Зібрати дуже довгий інструмент",
     Recipe_MakeJarofBellPeppers = "Зробити банку болгарського перцю",
     Recipe_MakeJarofTomatoes = "Зробити банку помідорів",
     Recipe_MakeSawbladePlank = "Посилити дошку зубами",

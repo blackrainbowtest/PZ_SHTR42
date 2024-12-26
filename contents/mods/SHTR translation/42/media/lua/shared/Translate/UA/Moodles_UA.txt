@@ -1,4 +1,4 @@
-Moodles_Uncomfortable_desc_lvl1 = {
+Moodles_UA = {
     Moodles_Uncomfortable_desc_lvl4 = "Ваш одяг, навколишнє середовище або щось інше робить вас вкрай незручними та нещасними."
     Moodles_NoxiousSmell_desc_lvl4 = "Ви не можете дихати. Ідіть звідси!",
     Moodles_NoxiousSmell_desc_lvl3 = "Неприємний запах робить вас погано.",
